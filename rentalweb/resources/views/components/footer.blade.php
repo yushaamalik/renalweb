@@ -55,7 +55,7 @@
 
     <div class="flex pb-12">
         <div class="w-1/4 pr-6">
-            <img width="100" src="/img/house-logo.png" alt="">
+            <img width="100" src="{{asset('/img/house-logo.png')}}" alt="">
             <p class="text-sm mt-7">Lorem ipsum dolor sit amet.</p>
         </div>
 
